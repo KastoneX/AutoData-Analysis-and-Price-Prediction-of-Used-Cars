@@ -15,7 +15,7 @@ The dataset used in this project can be found on Kaggle at the following link: h
 - [KastoneX](https://github.com/kastonex)
 
 ## Acknowledgments
-- [Austin Reese](https://www.kaggle.com/datasets/austinreese) for providing the dataset used in this project
+- [Austin Reese](https://www.kaggle.com/austinreese) for providing the dataset used in this project
 
 ## License
 
