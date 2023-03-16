@@ -61,3 +61,6 @@ history = model.fit(X_train, y_train, validation_split=0.2, epochs=50, batch_siz
 y_pred = model.predict(X_test)
 print('Mean squared error: %.2f' % mean_squared_error(y_test, y_pred))
 print('Coefficient of determination: %.2f' % r2_score(y_test, y_pred))
+
+# Save model
+model.save('car_price_prediction_model.h5')
